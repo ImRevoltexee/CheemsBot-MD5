@@ -21,19 +21,20 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
+global.owner = ['201288455338'] //ur number
+global.ownernomer = "201288455338" //ur number
+global.ownertag = '201288455338' //ur tag number
+global.premium = ['201288455338'] //ur premium number
+global.botname = 'Bo0t Al Soltan' //ur bot name
+global.ownername = "YoUsSef Al SoLtAn🎭"
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/FiRwXZoBuSyLlUZBtNAgx8' //script link
+global.themeemoji = "🔥" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "Bot Al Soltan" //ur sticker watermark author
+global.wm = "by youssef al soltan
+♤201288455338♤" //ur watermark
 
 // Other
 global.sessionName = 'session'
