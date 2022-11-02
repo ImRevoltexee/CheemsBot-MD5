@@ -31,7 +31,8 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/FiRwXZoBuSyLlUZBtNAgx8' //script link
 global.themeemoji = "🔥" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
+global.packname = "by Youssef Al Soltan
+♤201288455338♤" //ur sticker watermark packname
 global.author = "Bot Al Soltan" //ur sticker watermark author
 global.wm = "by youssef al soltan" //ur watermark
 
