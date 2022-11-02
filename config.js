@@ -34,7 +34,7 @@ global.themeemoji = "🔥" //ur theme emoji
 global.packname = "by Youssef Al Soltan
 ♤201288455338♤" //ur sticker watermark packname
 global.author = "Bot Al Soltan" //ur sticker watermark author
-global.wm = "by youssef al soltan" //ur watermark
+global.wm = "Xeon Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
