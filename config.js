@@ -33,8 +33,7 @@ global.botscript = 'https://chat.whatsapp.com/FiRwXZoBuSyLlUZBtNAgx8' //script l
 global.themeemoji = "🔥" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Bot Al Soltan" //ur sticker watermark author
-global.wm = "by youssef al soltan
-♤201288455338♤" //ur watermark
+global.wm = "by youssef al soltan" //ur watermark
 
 // Other
 global.sessionName = 'session'
