@@ -14,25 +14,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201288455338'] //ur owner number
-global.ownername = "Youssef al Soltan🎭" //ur owner name
-global.ytname = "YT: Youssef-AlSoltan" //ur yt chanel name
-global.socialm = "insta: 1y._.o2" //ur github or insta name
-global.location = "Egypt, al behira, cairo" //ur location
+global.vcardowner = ['916909137213'] //ur owner number
+global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.ytname = "YT: Xeon" //ur yt chanel name
+global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['201288455338'] //ur number
-global.ownernomer = "201288455338" //ur number
-global.ownertag = '201288455338' //ur tag number
-global.premium = ['201288455338'] //ur premium number
-global.botname = 'Bo0t Al Soltan' //ur bot name
-global.ownername = "YoUsSef Al SoLtAn🎭"
+global.owner = ['916909137213'] //ur number
+global.ownernomer = "916909137213" //ur number
+global.ownertag = '916909137213' //ur tag number
+global.premium = ['916909137213'] //ur premium number
+global.botname = 'Cheems Bot V5' //ur bot name
+global.ownername = "🦄Dream Guy Xeon"
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/FiRwXZoBuSyLlUZBtNAgx8' //script link
-global.themeemoji = "🔥" //ur theme emoji
-global.packname = "by:YoussefAlSoltan" //ur sticker watermark packname
-global.author = "Bot Al Soltan" //ur sticker watermark author
+global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
+global.themeemoji = "🦄" //ur theme emoji
+global.packname = "Sticker By" //ur sticker watermark packname
+global.author = "Cheems Bot" //ur sticker watermark author
 global.wm = "Xeon Bot Inc." //ur watermark
 
 // Other
@@ -84,3 +84,17 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
