@@ -29,11 +29,11 @@ global.botname = 'Bo0t Al Soltan' //ur bot name
 global.ownername = "YoUsSef Al SoLtAn"
 global.linkz = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
+global.botscript = 'https://github.com/youssefsoltan' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Bot Al Soltan" //ur sticker watermark author
-global.wm = "Al Soltan Bot Inc." //ur watermark
+global.wm = "BotInc." //ur watermark
 
 // Other
 global.sessionName = 'session'
